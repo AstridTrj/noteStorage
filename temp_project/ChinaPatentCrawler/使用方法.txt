@@ -1,0 +1,6 @@
+本程序使用jupyter notebook进行编写，可通过jupyter notebook打开该程序。
+所需环境：python、jupyter、selenium、Firefox浏览器和geckodriver驱动
+使用步骤：将需要爬取的城市放入“城市_待爬.txt”文件中，然后运行程序。“result.csv”文件根据“城市_全部.txt”中的所有城市进行存储，在爬取过程中依次存入。因此“城市_全部.txt”需要包含所有城市。
+
+Firefox下载链接：https://www.mozilla.org/zh-CN/firefox/download/thanks/
+geckodriver驱动下载链接：https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-win64.zip

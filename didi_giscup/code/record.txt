@@ -1,0 +1,9 @@
+5-24
+	1.五折全数据，线下0.14015414626974915，线上0.14508
+	2.特征：['order_id', 'ata', 'distance', 'simple_eta', 'driver_id', 'slice_id',
+		'link_cnt', 'mean_distance', 'speed_one', 'link_time_sum',
+    	'link_time_mean', 'link_time_max', 'link_time_min', 'speed_two',
+        'link_cur_sta_mean', 'link_cur_sta_sum', 'link_cur_sta_mode',
+        'cross_cnt', 'cross_time_sum', 'cross_time_mean', 'cross_time_max',
+        'cross_time_mode', 'cross_from', 'cross_to', 'cross_from_last',
+        'cross_to_last']
